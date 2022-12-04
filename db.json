@@ -1,22 +1,26 @@
 [
   {
-    "name": "Great Basin Spadefoot",
+    "name": "Kodok (Buso sp)",
     "type": "Kodok",
-    "description": "Kodok ini menghabiskan sebagian besar hidupnya di bawah tanah karena kondisi gurun yang gersang tempat ia tinggal. Katak spadefoot mendapatkan namanya karena kaki belakangnya yang terjepit untuk membantu menggali. Mereka biasanya berwarna abu-abu, hijau, atau coklat dengan bintik-bintik gelap."
+    "image": "https://raw.githubusercontent.com/GalihSetya/FileJson/main/Kodok%20(Buso%20sp).png",
+    "description": "Tentu kamu sudah tidak asing lagi dengan kodok yang satu ini kan? Hewan yang memiliki nama latin Buso sp ini adalah salah satu jenis hewan amfibi ini bisa kamu jumpai di sawah, got, sungai, rawa, dan tempat lainnya. Kodok memiliki kuku dan selaput pada kakinya yang digunakan untuk berenang saat hidup di dalam air. Kaki kodok yang panjang membuatnya memiliki kemampuan untuk melompat dengan jarak yang jauh. Hewan amfibi ini memiliki warna yang gelap, seperti hitam dan kecokelatan serta hidup di permukaan tanah. Itulah mengapa kodok disebut sebagai hewan amfibi. Tak hanya itu, kodok memiliki lendir yang bercaun pada bagian kulitnya yang kasar. Sumber : https://www.popmama.com/"
   },
   {
-    "name": "Kodok Roraima Bush",
-    "type": "Kodok",
-    "description": "Kodok ini biasanya ditemukan di Amerika Selatan. Khususnya di Gunung Roraima di perbatasan Venezuala, Brasil, dan Guyana, itulah namanya. Roraiam Bush Toad biasanya berwarna hitam dengan bintik-bintik kuning atau marmer di sepanjang tenggorokan dan perut."
+    "name": "Katak sawah (Rana sp)",
+    "type": "Katak",
+    "image": "https://raw.githubusercontent.com/GalihSetya/FileJson/main/Kodok%20(Buso%20sp).png",
+    "description": "Jenis katak yang satu ini memiliki ukuran tubuh yang lebih kecil dibanding kodok. Hewan amfibi ini sering ditemukan di sawah yang tergenang air. Katak memiliki kaki dan berselaput yang membuatnya lihai berenang. Kulit katak sangat licin dan memiliki warna yang tidak mencolok. Meski katak memiliki kulit yang licin, namun lendir yang dihasilkan tidak beracun seperti kodok. Katak bernafas dengan insang saat masih menjadi kecebong, namun saat dewasa ia menggunakan sistem pernafasan invertebrate. Makanan kesukaan katak adalah serangga kecil yang ada di tepian sawah."
   },
   {
     "name": "Salamander California Giant ",
     "type": "Salamander",
+    "image": "https://raw.githubusercontent.com/GalihSetya/FileJson/main/Kodok%20(Buso%20sp).png",
     "description": "Sesuai namanya, salamander ini dapat ditemukan di California Utara, serta bagian lain di Pacific Northwest. Mereka lebih menyukai daerah beriklim sedang dengan banyak kelembapan dan biasanya dapat tumbuh hingga 30 cm."
   },
   {
     "name": "Salamander Tiger",
     "type": "Salamander",
+    "image": "https://raw.githubusercontent.com/GalihSetya/FileJson/main/Kodok%20(Buso%20sp).png",
     "description": "Salamander Harimau biasanya ditemukan di Pantai Atlantik Amerika Utara. Mereka diberi nama karena pewarnaannya yang biasanya berupa tubuh coklat yang dipecah oleh bintik-bintik kekuningan-kehijauan. Meskipun mereka menyukai kondisi lembab, mereka tidak menghabiskan banyak waktu di perairan. Sebaliknya mereka lebih suka menggali ke dalam tanah yang gembur."
   }
 ]
